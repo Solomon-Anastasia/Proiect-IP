@@ -1,0 +1,454 @@
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.AssemblyReference.cache
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormLogIn.resources
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.GenerateResource.cache
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.AssemblyInfoInputs.cache
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.AssemblyInfo.cs
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.CoreCompileInputs.cache
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.exe
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.deps.json
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.runtimeconfig.json
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.pdb
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\bin\Debug\net8.0-windows\AutoPartsManagementDLL.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\bin\Debug\net8.0-windows\DataBaseManager.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\bin\Debug\net8.0-windows\Exceptions.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\bin\Debug\net8.0-windows\Items.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\bin\Debug\net8.0-windows\AutoPartsManagementDLL.pdb
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\bin\Debug\net8.0-windows\DataBaseManager.pdb
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\bin\Debug\net8.0-windows\Exceptions.pdb
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\bin\Debug\net8.0-windows\Items.pdb
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.TemplateActionForm.resources
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.Up2Date
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\obj\Debug\net8.0-windows\refint\Interface.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.pdb
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.genruntimeconfig.cache
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\obj\Debug\net8.0-windows\ref\Interface.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormMenu.resources
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormAddProduct.resources
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormAddToStock.resources
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormAddUser.resources
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormSell.resources
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormUpdatePass.resources
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormUpdatePrice.resources
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormDeleteUser.resources
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.exe
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.deps.json
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.runtimeconfig.json
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.dll
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.pdb
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\AutoPartsManagementDLL.dll
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\DataBaseManager.dll
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Exceptions.dll
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Items.dll
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\AutoPartsManagementDLL.pdb
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\DataBaseManager.pdb
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Exceptions.pdb
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Items.pdb
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.AssemblyReference.cache
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormAddProduct.resources
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormAddToStock.resources
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormAddUser.resources
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormDeleteUser.resources
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormLogIn.resources
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormMenu.resources
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormSell.resources
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormUpdatePass.resources
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormUpdatePrice.resources
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.TemplateActionForm.resources
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.GenerateResource.cache
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.AssemblyInfoInputs.cache
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.AssemblyInfo.cs
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.CoreCompileInputs.cache
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.sourcelink.json
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.Up2Date
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.dll
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\refint\Interface.dll
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.pdb
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.genruntimeconfig.cache
+D:\an3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\ref\Interface.dll
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.exe
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.deps.json
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.runtimeconfig.json
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.dll
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.pdb
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\AutoPartsManagementDLL.dll
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\DataBaseManager.dll
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Exceptions.dll
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Items.dll
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\AutoPartsManagementDLL.pdb
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\DataBaseManager.pdb
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Exceptions.pdb
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Items.pdb
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.AssemblyReference.cache
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormAddProduct.resources
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormAddToStock.resources
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormAddUser.resources
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormDeleteUser.resources
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormLogIn.resources
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormMenu.resources
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormSell.resources
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormUpdatePass.resources
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormUpdatePrice.resources
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.TemplateActionForm.resources
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.GenerateResource.cache
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.AssemblyInfoInputs.cache
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.AssemblyInfo.cs
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.sourcelink.json
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.Up2Date
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.dll
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\refint\Interface.dll
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.pdb
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.genruntimeconfig.cache
+C:\Users\Soma\source\repos\Andrei-inatorul\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\ref\Interface.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.exe
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.deps.json
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.runtimeconfig.json
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.pdb
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\AutoPartsManagementDLL.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\DataBaseManager.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Exceptions.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Items.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\AutoPartsManagementDLL.pdb
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\DataBaseManager.pdb
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Exceptions.pdb
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Items.pdb
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.AssemblyReference.cache
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormAddProduct.resources
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormAddToStock.resources
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormAddUser.resources
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormDeleteUser.resources
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormLogIn.resources
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormMenu.resources
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormSell.resources
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormUpdatePass.resources
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormUpdatePrice.resources
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.TemplateActionForm.resources
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.GenerateResource.cache
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.AssemblyInfoInputs.cache
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.AssemblyInfo.cs
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.CoreCompileInputs.cache
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.sourcelink.json
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.Up2Date
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\refint\Interface.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.pdb
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.genruntimeconfig.cache
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\ref\Interface.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.exe
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.deps.json
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.runtimeconfig.json
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.pdb
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\AutoPartsManagementDLL.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\DataBaseManager.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Exceptions.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Items.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\AutoPartsManagementDLL.pdb
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\DataBaseManager.pdb
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Exceptions.pdb
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Items.pdb
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.AssemblyReference.cache
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormAddProduct.resources
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormAddToStock.resources
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormAddUser.resources
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormDeleteUser.resources
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormLogIn.resources
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormMenu.resources
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormSell.resources
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormUpdatePass.resources
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormUpdatePrice.resources
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.TemplateActionForm.resources
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.GenerateResource.cache
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.GeneratedMSBuildEditorConfig.editorconfig
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.AssemblyInfoInputs.cache
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.AssemblyInfo.cs
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.CoreCompileInputs.cache
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.sourcelink.json
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.Up2Date
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\refint\Interface.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.pdb
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.genruntimeconfig.cache
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\ref\Interface.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.exe
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.deps.json
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.runtimeconfig.json
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\AutoPartsManagementDLL.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\DataBaseManager.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Exceptions.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Items.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\AutoPartsManagementDLL.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\DataBaseManager.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Exceptions.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Items.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.AssemblyReference.cache
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormAddProduct.resources
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormAddToStock.resources
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormAddUser.resources
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormDeleteUser.resources
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormLogIn.resources
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormMenu.resources
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormSell.resources
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormUpdatePass.resources
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormUpdatePrice.resources
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.TemplateActionForm.resources
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.GenerateResource.cache
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.AssemblyInfoInputs.cache
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.AssemblyInfo.cs
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.sourcelink.json
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.Up2Date
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\refint\Interface.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.genruntimeconfig.cache
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\ref\Interface.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.exe
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.deps.json
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.runtimeconfig.json
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.pdb
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\AutoPartsManagementDLL.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\DataBaseManager.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Exceptions.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Items.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\AutoPartsManagementDLL.pdb
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\DataBaseManager.pdb
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Exceptions.pdb
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\bin\Debug\net8.0-windows\Items.pdb
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.AssemblyReference.cache
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormAddProduct.resources
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormAddToStock.resources
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormAddUser.resources
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormDeleteUser.resources
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormLogIn.resources
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormMenu.resources
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormSell.resources
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormUpdatePass.resources
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormUpdatePrice.resources
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.TemplateActionForm.resources
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.GenerateResource.cache
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.AssemblyInfoInputs.cache
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.AssemblyInfo.cs
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.CoreCompileInputs.cache
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.sourcelink.json
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.Up2Date
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\refint\Interface.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.pdb
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.genruntimeconfig.cache
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\Interface\Interface\Interface\obj\Debug\net8.0-windows\ref\Interface.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.exe
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.deps.json
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.runtimeconfig.json
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.pdb
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\bin\Debug\net8.0-windows\AutoPartsManagementDLL.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\bin\Debug\net8.0-windows\DataBaseManager.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\bin\Debug\net8.0-windows\Exceptions.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\bin\Debug\net8.0-windows\Items.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\bin\Debug\net8.0-windows\AutoPartsManagementDLL.pdb
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\bin\Debug\net8.0-windows\DataBaseManager.pdb
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\bin\Debug\net8.0-windows\Exceptions.pdb
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\bin\Debug\net8.0-windows\Items.pdb
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.AssemblyReference.cache
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormAddProduct.resources
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormAddToStock.resources
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormAddUser.resources
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormDeleteUser.resources
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormLogIn.resources
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormMenu.resources
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormSell.resources
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormUpdatePass.resources
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormUpdatePrice.resources
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.TemplateActionForm.resources
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.GenerateResource.cache
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.GeneratedMSBuildEditorConfig.editorconfig
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.AssemblyInfoInputs.cache
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.AssemblyInfo.cs
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.CoreCompileInputs.cache
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.sourcelink.json
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.Up2Date
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\refint\Interface.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.pdb
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.genruntimeconfig.cache
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\ref\Interface.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.Properties.Resources.resources
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.exe
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.deps.json
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.runtimeconfig.json
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.pdb
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\bin\Debug\net8.0-windows\AutoPartsManagementDLL.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\bin\Debug\net8.0-windows\DataBaseManager.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\bin\Debug\net8.0-windows\Exceptions.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\bin\Debug\net8.0-windows\Items.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\bin\Debug\net8.0-windows\AutoPartsManagementDLL.pdb
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\bin\Debug\net8.0-windows\DataBaseManager.pdb
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\bin\Debug\net8.0-windows\Exceptions.pdb
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\bin\Debug\net8.0-windows\Items.pdb
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.AssemblyReference.cache
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormAddProduct.resources
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormAddToStock.resources
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormAddUser.resources
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormDeleteUser.resources
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormLogIn.resources
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormMenu.resources
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormSell.resources
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormUpdatePass.resources
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormUpdatePrice.resources
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.Properties.Resources.resources
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.TemplateActionForm.resources
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.GenerateResource.cache
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.AssemblyInfoInputs.cache
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.AssemblyInfo.cs
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.CoreCompileInputs.cache
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.sourcelink.json
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.Up2Date
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\refint\Interface.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.pdb
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.genruntimeconfig.cache
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM_COMENTAT_bun\IP_PROIECT_ECHIPA_TEAM_COMENTAT\Interface\Interface\Interface\obj\Debug\net8.0-windows\ref\Interface.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.exe
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.deps.json
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.runtimeconfig.json
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\bin\Debug\net8.0-windows\AutoPartsManagementDLL.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\bin\Debug\net8.0-windows\DataBaseManager.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\bin\Debug\net8.0-windows\Exceptions.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\bin\Debug\net8.0-windows\Items.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\bin\Debug\net8.0-windows\AutoPartsManagementDLL.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\bin\Debug\net8.0-windows\DataBaseManager.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\bin\Debug\net8.0-windows\Exceptions.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\bin\Debug\net8.0-windows\Items.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.AssemblyReference.cache
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormAddProduct.resources
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormAddToStock.resources
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormAddUser.resources
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormDeleteUser.resources
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormLogIn.resources
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormMenu.resources
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormSell.resources
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormUpdatePass.resources
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormUpdatePrice.resources
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.Properties.Resources.resources
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.TemplateActionForm.resources
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.GenerateResource.cache
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.AssemblyInfoInputs.cache
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.AssemblyInfo.cs
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.sourcelink.json
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.Up2Date
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\obj\Debug\net8.0-windows\refint\Interface.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.genruntimeconfig.cache
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\Interface\Interface\Interface\obj\Debug\net8.0-windows\ref\Interface.dll
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.AssemblyReference.cache
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.dll
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\obj\Debug\net8.0-windows\refint\Interface.dll
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.pdb
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.exe
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.deps.json
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.runtimeconfig.json
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.dll
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\bin\Debug\net8.0-windows\Interface.pdb
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\bin\Debug\net8.0-windows\AutoPartsManagementDLL.dll
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\bin\Debug\net8.0-windows\DataBaseManager.dll
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\bin\Debug\net8.0-windows\Exceptions.dll
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\bin\Debug\net8.0-windows\Items.dll
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\bin\Debug\net8.0-windows\AutoPartsManagementDLL.pdb
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\bin\Debug\net8.0-windows\DataBaseManager.pdb
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\bin\Debug\net8.0-windows\Exceptions.pdb
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\bin\Debug\net8.0-windows\Items.pdb
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormAddProduct.resources
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormAddToStock.resources
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormAddUser.resources
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormDeleteUser.resources
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormLogIn.resources
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormMenu.resources
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormSell.resources
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormUpdatePass.resources
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.FormUpdatePrice.resources
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.Properties.Resources.resources
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.TemplateActionForm.resources
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.GenerateResource.cache
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.AssemblyInfoInputs.cache
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.AssemblyInfo.cs
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.sourcelink.json
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.csproj.Up2Date
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\obj\Debug\net8.0-windows\Interface.genruntimeconfig.cache
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\Interface\Interface\Interface\obj\Debug\net8.0-windows\ref\Interface.dll

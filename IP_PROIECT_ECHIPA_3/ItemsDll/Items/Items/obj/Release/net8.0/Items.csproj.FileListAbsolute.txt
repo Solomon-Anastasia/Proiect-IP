@@ -1,0 +1,11 @@
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ItemsDll\Items\Items\bin\Release\net8.0\Items.deps.json
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ItemsDll\Items\Items\bin\Release\net8.0\Items.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ItemsDll\Items\Items\bin\Release\net8.0\Items.pdb
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ItemsDll\Items\Items\obj\Release\net8.0\Items.GeneratedMSBuildEditorConfig.editorconfig
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ItemsDll\Items\Items\obj\Release\net8.0\Items.AssemblyInfoInputs.cache
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ItemsDll\Items\Items\obj\Release\net8.0\Items.AssemblyInfo.cs
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ItemsDll\Items\Items\obj\Release\net8.0\Items.csproj.CoreCompileInputs.cache
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ItemsDll\Items\Items\obj\Release\net8.0\Items.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ItemsDll\Items\Items\obj\Release\net8.0\refint\Items.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ItemsDll\Items\Items\obj\Release\net8.0\Items.pdb
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ItemsDll\Items\Items\obj\Release\net8.0\ref\Items.dll

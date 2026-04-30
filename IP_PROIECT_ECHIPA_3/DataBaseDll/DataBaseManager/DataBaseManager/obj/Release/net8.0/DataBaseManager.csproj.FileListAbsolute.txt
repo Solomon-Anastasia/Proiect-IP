@@ -1,0 +1,17 @@
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\DataBaseDll\DataBaseManager\DataBaseManager\bin\Release\net8.0\DataBaseManager.deps.json
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\DataBaseDll\DataBaseManager\DataBaseManager\bin\Release\net8.0\DataBaseManager.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\DataBaseDll\DataBaseManager\DataBaseManager\bin\Release\net8.0\DataBaseManager.pdb
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\DataBaseDll\DataBaseManager\DataBaseManager\bin\Release\net8.0\Exceptions.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\DataBaseDll\DataBaseManager\DataBaseManager\bin\Release\net8.0\Items.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\DataBaseDll\DataBaseManager\DataBaseManager\bin\Release\net8.0\Exceptions.pdb
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\DataBaseDll\DataBaseManager\DataBaseManager\bin\Release\net8.0\Items.pdb
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\DataBaseDll\DataBaseManager\DataBaseManager\obj\Release\net8.0\DataBaseManager.csproj.AssemblyReference.cache
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\DataBaseDll\DataBaseManager\DataBaseManager\obj\Release\net8.0\DataBaseManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\DataBaseDll\DataBaseManager\DataBaseManager\obj\Release\net8.0\DataBaseManager.AssemblyInfoInputs.cache
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\DataBaseDll\DataBaseManager\DataBaseManager\obj\Release\net8.0\DataBaseManager.AssemblyInfo.cs
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\DataBaseDll\DataBaseManager\DataBaseManager\obj\Release\net8.0\DataBaseManager.csproj.CoreCompileInputs.cache
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\DataBaseDll\DataBaseManager\DataBaseManager\obj\Release\net8.0\DataBase.A549858C.Up2Date
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\DataBaseDll\DataBaseManager\DataBaseManager\obj\Release\net8.0\DataBaseManager.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\DataBaseDll\DataBaseManager\DataBaseManager\obj\Release\net8.0\refint\DataBaseManager.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\DataBaseDll\DataBaseManager\DataBaseManager\obj\Release\net8.0\DataBaseManager.pdb
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\DataBaseDll\DataBaseManager\DataBaseManager\obj\Release\net8.0\ref\DataBaseManager.dll

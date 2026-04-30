@@ -1,0 +1,83 @@
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ExceptionsDll\Exceptions\Exceptions\bin\Debug\net8.0\Exceptions.deps.json
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ExceptionsDll\Exceptions\Exceptions\bin\Debug\net8.0\Exceptions.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ExceptionsDll\Exceptions\Exceptions\bin\Debug\net8.0\Exceptions.pdb
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.AssemblyInfoInputs.cache
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.AssemblyInfo.cs
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.csproj.CoreCompileInputs.cache
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\refint\Exceptions.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.pdb
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\ref\Exceptions.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\bin\Debug\net8.0\Exceptions.deps.json
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\bin\Debug\net8.0\Exceptions.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\bin\Debug\net8.0\Exceptions.pdb
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.AssemblyInfoInputs.cache
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.AssemblyInfo.cs
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.csproj.CoreCompileInputs.cache
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.sourcelink.json
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\refint\Exceptions.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.pdb
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\ref\Exceptions.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\bin\Debug\net8.0\Exceptions.deps.json
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\bin\Debug\net8.0\Exceptions.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\bin\Debug\net8.0\Exceptions.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.AssemblyInfoInputs.cache
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.AssemblyInfo.cs
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.sourcelink.json
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\refint\Exceptions.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\ref\Exceptions.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\bin\Debug\net8.0\Exceptions.deps.json
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\bin\Debug\net8.0\Exceptions.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\bin\Debug\net8.0\Exceptions.pdb
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.AssemblyInfoInputs.cache
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.AssemblyInfo.cs
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.csproj.CoreCompileInputs.cache
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.sourcelink.json
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\refint\Exceptions.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.pdb
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\ref\Exceptions.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\bin\Debug\net8.0\Exceptions.deps.json
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\bin\Debug\net8.0\Exceptions.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\bin\Debug\net8.0\Exceptions.pdb
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.AssemblyInfoInputs.cache
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.AssemblyInfo.cs
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.csproj.CoreCompileInputs.cache
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.sourcelink.json
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\refint\Exceptions.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.pdb
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\ref\Exceptions.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\ExceptionsDll\Exceptions\Exceptions\bin\Debug\net8.0\Exceptions.deps.json
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\ExceptionsDll\Exceptions\Exceptions\bin\Debug\net8.0\Exceptions.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\ExceptionsDll\Exceptions\Exceptions\bin\Debug\net8.0\Exceptions.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.AssemblyInfoInputs.cache
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.AssemblyInfo.cs
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.sourcelink.json
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\refint\Exceptions.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\ref\Exceptions.dll
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\ExceptionsDll\Exceptions\Exceptions\bin\Debug\net8.0\Exceptions.deps.json
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\ExceptionsDll\Exceptions\Exceptions\bin\Debug\net8.0\Exceptions.dll
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\ExceptionsDll\Exceptions\Exceptions\bin\Debug\net8.0\Exceptions.pdb
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.AssemblyInfoInputs.cache
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.AssemblyInfo.cs
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.sourcelink.json
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.dll
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\refint\Exceptions.dll
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.pdb
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\ExceptionsDll\Exceptions\Exceptions\obj\Debug\net8.0\ref\Exceptions.dll

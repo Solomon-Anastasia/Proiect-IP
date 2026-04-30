@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<AssemblyName>Exceptions</AssemblyName>
+		<RootNamespace>Exceptions</RootNamespace>
+		<GenerateAssemblyInfo>true</GenerateAssemblyInfo>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+	<PropertyGroup>
+		<Description>Exeptii referitoare la baza de date</Description>
+		<Authors>@2025</Authors>
+		<Company>theTeamIp</Company>
+		<PackageId>Exceptions</PackageId>
+		<Version>1.0.0</Version>
+	</PropertyGroup>
+
+</Project>

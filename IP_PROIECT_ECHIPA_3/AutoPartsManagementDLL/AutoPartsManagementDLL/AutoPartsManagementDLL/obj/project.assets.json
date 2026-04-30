@@ -1,0 +1,214 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Stub.System.Data.SQLite.Core.NetStandard/1.0.119": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/System.Data.SQLite.dll": {
+            "related": ".dll.altconfig;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/System.Data.SQLite.dll": {
+            "related": ".dll.altconfig;.xml"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux-x64/native/SQLite.Interop.dll": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/osx-x64/native/SQLite.Interop.dll": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/win-x64/native/SQLite.Interop.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x86/native/SQLite.Interop.dll": {
+            "assetType": "native",
+            "rid": "win-x86"
+          }
+        }
+      },
+      "System.Data.SQLite.Core/1.0.119": {
+        "type": "package",
+        "dependencies": {
+          "Stub.System.Data.SQLite.Core.NetStandard": "[1.0.119]"
+        }
+      },
+      "DataBaseManager/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Exceptions": "1.0.0",
+          "Items": "1.0.0",
+          "System.Data.SQLite.Core": "1.0.119"
+        },
+        "compile": {
+          "bin/placeholder/DataBaseManager.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataBaseManager.dll": {}
+        }
+      },
+      "Exceptions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Exceptions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Exceptions.dll": {}
+        }
+      },
+      "Items/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Items.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Items.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Stub.System.Data.SQLite.Core.NetStandard/1.0.119": {
+      "sha512": "dI7ngiCNgdm+n00nQvFTa+LbHvE9MIQXwMSLRzJI/KAJ7G1WmCachsvfE1CD6xvb3OXJvYYEfv3+S/LHyhN0Rg==",
+      "type": "package",
+      "path": "stub.system.data.sqlite.core.netstandard/1.0.119",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/System.Data.SQLite.dll",
+        "lib/netstandard2.0/System.Data.SQLite.dll.altconfig",
+        "lib/netstandard2.0/System.Data.SQLite.xml",
+        "lib/netstandard2.1/System.Data.SQLite.dll",
+        "lib/netstandard2.1/System.Data.SQLite.dll.altconfig",
+        "lib/netstandard2.1/System.Data.SQLite.xml",
+        "runtimes/linux-x64/native/SQLite.Interop.dll",
+        "runtimes/osx-x64/native/SQLite.Interop.dll",
+        "runtimes/win-x64/native/SQLite.Interop.dll",
+        "runtimes/win-x86/native/SQLite.Interop.dll",
+        "stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+        "stub.system.data.sqlite.core.netstandard.nuspec"
+      ]
+    },
+    "System.Data.SQLite.Core/1.0.119": {
+      "sha512": "bhQB8HVtRA+OOYw8UTD1F1kU+nGJ0/OZvH1JmlVUI4bGvgVEWeX1NcHjA765NvUoRVuCPlt8PrEpZ1thSsk1jg==",
+      "type": "package",
+      "path": "system.data.sqlite.core/1.0.119",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "system.data.sqlite.core.1.0.119.nupkg.sha512",
+        "system.data.sqlite.core.nuspec"
+      ]
+    },
+    "DataBaseManager/1.0.0": {
+      "type": "project",
+      "path": "../../../DataBaseDll/DataBaseManager/DataBaseManager/DataBaseManager.csproj",
+      "msbuildProject": "../../../DataBaseDll/DataBaseManager/DataBaseManager/DataBaseManager.csproj"
+    },
+    "Exceptions/1.0.0": {
+      "type": "project",
+      "path": "../../../ExceptionsDll/Exceptions/Exceptions/Exceptions.csproj",
+      "msbuildProject": "../../../ExceptionsDll/Exceptions/Exceptions/Exceptions.csproj"
+    },
+    "Items/1.0.0": {
+      "type": "project",
+      "path": "../../../ItemsDll/Items/Items/Items.csproj",
+      "msbuildProject": "../../../ItemsDll/Items/Items/Items.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "DataBaseManager >= 1.0.0",
+      "Exceptions >= 1.0.0",
+      "Items >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Naste\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Naste\\Desktop\\Materii\\POIECT IP\\IP_PROIECT_ECHIPA_3\\AutoPartsManagementDLL\\AutoPartsManagementDLL\\AutoPartsManagementDLL\\AutoPartsManagementDLL.csproj",
+      "projectName": "AutoPartsManagementDLL",
+      "projectPath": "C:\\Users\\Naste\\Desktop\\Materii\\POIECT IP\\IP_PROIECT_ECHIPA_3\\AutoPartsManagementDLL\\AutoPartsManagementDLL\\AutoPartsManagementDLL\\AutoPartsManagementDLL.csproj",
+      "packagesPath": "C:\\Users\\Naste\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Naste\\Desktop\\Materii\\POIECT IP\\IP_PROIECT_ECHIPA_3\\AutoPartsManagementDLL\\AutoPartsManagementDLL\\AutoPartsManagementDLL\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Naste\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Naste\\Desktop\\Materii\\POIECT IP\\IP_PROIECT_ECHIPA_3\\DataBaseDll\\DataBaseManager\\DataBaseManager\\DataBaseManager.csproj": {
+              "projectPath": "C:\\Users\\Naste\\Desktop\\Materii\\POIECT IP\\IP_PROIECT_ECHIPA_3\\DataBaseDll\\DataBaseManager\\DataBaseManager\\DataBaseManager.csproj"
+            },
+            "C:\\Users\\Naste\\Desktop\\Materii\\POIECT IP\\IP_PROIECT_ECHIPA_3\\ExceptionsDll\\Exceptions\\Exceptions\\Exceptions.csproj": {
+              "projectPath": "C:\\Users\\Naste\\Desktop\\Materii\\POIECT IP\\IP_PROIECT_ECHIPA_3\\ExceptionsDll\\Exceptions\\Exceptions\\Exceptions.csproj"
+            },
+            "C:\\Users\\Naste\\Desktop\\Materii\\POIECT IP\\IP_PROIECT_ECHIPA_3\\ItemsDll\\Items\\Items\\Items.csproj": {
+              "projectPath": "C:\\Users\\Naste\\Desktop\\Materii\\POIECT IP\\IP_PROIECT_ECHIPA_3\\ItemsDll\\Items\\Items\\Items.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

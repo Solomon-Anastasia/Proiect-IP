@@ -1,0 +1,611 @@
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\obj\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.csproj.AssemblyReference.cache
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\obj\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\obj\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.AssemblyInfoInputs.cache
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\obj\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.AssemblyInfo.cs
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\obj\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.csproj.CoreCompileInputs.cache
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\obj\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.sourcelink.json
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\testhost.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\testhost.exe
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.deps.json
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.runtimeconfig.json
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.pdb
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.ApplicationInsights.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.Testing.Extensions.Telemetry.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.Testing.Extensions.VSTestBridge.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.Testing.Platform.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.Testing.Platform.MSBuild.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\cs\Microsoft.Testing.Platform.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\de\Microsoft.Testing.Platform.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\es\Microsoft.Testing.Platform.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\fr\Microsoft.Testing.Platform.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\it\Microsoft.Testing.Platform.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ja\Microsoft.Testing.Platform.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ko\Microsoft.Testing.Platform.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pl\Microsoft.Testing.Platform.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pt-BR\Microsoft.Testing.Platform.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ru\Microsoft.Testing.Platform.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\tr\Microsoft.Testing.Platform.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hans\Microsoft.Testing.Platform.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hant\Microsoft.Testing.Platform.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\cs\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\de\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\es\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\fr\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\it\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ja\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ko\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pl\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pt-BR\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ru\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\tr\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hans\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hant\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\AutoPartsManagementDLL.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\DataBaseManager.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Exceptions.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Items.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\AutoPartsManagementDLL.pdb
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\DataBaseManager.pdb
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Exceptions.pdb
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Items.pdb
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\obj\Debug\net8.0\UnitTest.A1D1BCE7.Up2Date
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\obj\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\obj\Debug\net8.0\refint\UnitTesting_AutoPartsManagementDLL.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\obj\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.pdb
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\obj\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.genruntimeconfig.cache
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\obj\Debug\net8.0\ref\UnitTesting_AutoPartsManagementDLL.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\EntityFramework.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\System.Data.SQLite.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\System.CodeDom.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\System.Data.SQLite.EF6.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\win-x64\native\SQLite.Interop.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\win-x86\native\SQLite.Interop.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\.msCoverageSourceRootsMapping_UnitTesting_AutoPartsManagementDLL
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\testhost.exe
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\testhost.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.deps.json
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.runtimeconfig.json
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.ApplicationInsights.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.Testing.Extensions.Telemetry.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.Testing.Extensions.VSTestBridge.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.Testing.Platform.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.Testing.Platform.MSBuild.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\System.Data.SQLite.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\System.Data.SQLite.EF6.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\cs\Microsoft.Testing.Platform.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\de\Microsoft.Testing.Platform.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\es\Microsoft.Testing.Platform.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\fr\Microsoft.Testing.Platform.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\it\Microsoft.Testing.Platform.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ja\Microsoft.Testing.Platform.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ko\Microsoft.Testing.Platform.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pl\Microsoft.Testing.Platform.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pt-BR\Microsoft.Testing.Platform.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ru\Microsoft.Testing.Platform.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\tr\Microsoft.Testing.Platform.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hans\Microsoft.Testing.Platform.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hant\Microsoft.Testing.Platform.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\cs\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\de\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\es\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\fr\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\it\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ja\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ko\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pl\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pt-BR\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ru\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\tr\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hans\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hant\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\AutoPartsManagementDLL.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\DataBaseManager.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Exceptions.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Items.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\AutoPartsManagementDLL.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\DataBaseManager.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Exceptions.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Items.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\obj\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.csproj.AssemblyReference.cache
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\obj\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\obj\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.AssemblyInfoInputs.cache
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\obj\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.AssemblyInfo.cs
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\obj\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.csproj.CoreCompileInputs.cache
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\obj\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.sourcelink.json
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\obj\Debug\net8.0\UnitTest.A1D1BCE7.Up2Date
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\obj\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\obj\Debug\net8.0\refint\UnitTesting_AutoPartsManagementDLL.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\obj\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\obj\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.genruntimeconfig.cache
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\obj\Debug\net8.0\ref\UnitTesting_AutoPartsManagementDLL.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\.msCoverageSourceRootsMapping_UnitTesting_AutoPartsManagementDLL
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\testhost.exe
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\testhost.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.deps.json
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.runtimeconfig.json
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.pdb
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\EntityFramework.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.ApplicationInsights.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.Testing.Extensions.Telemetry.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.Testing.Extensions.VSTestBridge.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.Testing.Platform.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.Testing.Platform.MSBuild.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\System.Data.SQLite.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\System.CodeDom.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\System.Data.SQLite.EF6.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\cs\Microsoft.Testing.Platform.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\de\Microsoft.Testing.Platform.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\es\Microsoft.Testing.Platform.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\fr\Microsoft.Testing.Platform.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\it\Microsoft.Testing.Platform.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ja\Microsoft.Testing.Platform.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ko\Microsoft.Testing.Platform.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pl\Microsoft.Testing.Platform.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pt-BR\Microsoft.Testing.Platform.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ru\Microsoft.Testing.Platform.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\tr\Microsoft.Testing.Platform.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hans\Microsoft.Testing.Platform.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hant\Microsoft.Testing.Platform.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\cs\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\de\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\es\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\fr\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\it\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ja\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ko\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pl\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pt-BR\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ru\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\tr\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hans\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hant\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\win-x64\native\SQLite.Interop.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\win-x86\native\SQLite.Interop.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\AutoPartsManagementDLL.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\DataBaseManager.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Exceptions.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Items.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\AutoPartsManagementDLL.pdb
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\DataBaseManager.pdb
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Exceptions.pdb
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Items.pdb
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\obj\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.csproj.AssemblyReference.cache
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\obj\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\obj\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.AssemblyInfoInputs.cache
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\obj\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.AssemblyInfo.cs
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\obj\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.csproj.CoreCompileInputs.cache
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\obj\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.sourcelink.json
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\obj\Debug\net8.0\UnitTest.A1D1BCE7.Up2Date
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\obj\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\obj\Debug\net8.0\refint\UnitTesting_AutoPartsManagementDLL.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\obj\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.pdb
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\obj\Debug\net8.0\UnitTesting_AutoPartsManagementDLL.genruntimeconfig.cache
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\UnitTesting_AutoPartsManagementDLL\obj\Debug\net8.0\ref\UnitTesting_AutoPartsManagementDLL.dll

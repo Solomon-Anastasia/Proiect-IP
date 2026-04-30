@@ -1,0 +1,11 @@
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ExceptionsDll\Exceptions\Exceptions\bin\Release\net8.0\Exceptions.deps.json
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ExceptionsDll\Exceptions\Exceptions\bin\Release\net8.0\Exceptions.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ExceptionsDll\Exceptions\Exceptions\bin\Release\net8.0\Exceptions.pdb
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ExceptionsDll\Exceptions\Exceptions\obj\Release\net8.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ExceptionsDll\Exceptions\Exceptions\obj\Release\net8.0\Exceptions.AssemblyInfoInputs.cache
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ExceptionsDll\Exceptions\Exceptions\obj\Release\net8.0\Exceptions.AssemblyInfo.cs
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ExceptionsDll\Exceptions\Exceptions\obj\Release\net8.0\Exceptions.csproj.CoreCompileInputs.cache
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ExceptionsDll\Exceptions\Exceptions\obj\Release\net8.0\Exceptions.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ExceptionsDll\Exceptions\Exceptions\obj\Release\net8.0\refint\Exceptions.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ExceptionsDll\Exceptions\Exceptions\obj\Release\net8.0\Exceptions.pdb
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ExceptionsDll\Exceptions\Exceptions\obj\Release\net8.0\ref\Exceptions.dll

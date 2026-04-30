@@ -1,0 +1,125 @@
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\DataBaseManager.deps.json
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\DataBaseManager.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\DataBaseManager.pdb
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\Exceptions.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\Items.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\Exceptions.pdb
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\Items.pdb
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.csproj.AssemblyReference.cache
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.AssemblyInfoInputs.cache
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.AssemblyInfo.cs
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.csproj.CoreCompileInputs.cache
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBase.A549858C.Up2Date
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\refint\DataBaseManager.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.pdb
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\ref\DataBaseManager.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\DataBaseManager.deps.json
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\DataBaseManager.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\DataBaseManager.pdb
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\Exceptions.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\Items.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\Exceptions.pdb
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\Items.pdb
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.csproj.AssemblyReference.cache
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.AssemblyInfoInputs.cache
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.AssemblyInfo.cs
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.csproj.CoreCompileInputs.cache
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.sourcelink.json
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBase.A549858C.Up2Date
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\refint\DataBaseManager.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.pdb
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\ref\DataBaseManager.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\DataBaseManager.deps.json
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\DataBaseManager.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\DataBaseManager.pdb
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\Exceptions.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\Items.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\Exceptions.pdb
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\Items.pdb
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.csproj.AssemblyReference.cache
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.GeneratedMSBuildEditorConfig.editorconfig
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.AssemblyInfoInputs.cache
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.AssemblyInfo.cs
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.csproj.CoreCompileInputs.cache
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.sourcelink.json
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBase.A549858C.Up2Date
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\refint\DataBaseManager.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.pdb
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\ref\DataBaseManager.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\DataBaseManager.deps.json
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\DataBaseManager.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\DataBaseManager.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\Exceptions.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\Items.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\Exceptions.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\Items.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.csproj.AssemblyReference.cache
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.AssemblyInfoInputs.cache
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.AssemblyInfo.cs
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.csproj.CoreCompileInputs.cache
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.sourcelink.json
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBase.A549858C.Up2Date
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\refint\DataBaseManager.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\ref\DataBaseManager.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\DataBaseManager.deps.json
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\DataBaseManager.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\DataBaseManager.pdb
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\Exceptions.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\Items.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\Exceptions.pdb
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\Items.pdb
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.csproj.AssemblyReference.cache
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.AssemblyInfoInputs.cache
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.AssemblyInfo.cs
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.csproj.CoreCompileInputs.cache
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.sourcelink.json
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBase.A549858C.Up2Date
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\refint\DataBaseManager.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.pdb
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\ref\DataBaseManager.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\DataBaseManager.deps.json
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\DataBaseManager.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\DataBaseManager.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\Exceptions.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\Items.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\Exceptions.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\Items.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.csproj.AssemblyReference.cache
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.AssemblyInfoInputs.cache
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.AssemblyInfo.cs
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.csproj.CoreCompileInputs.cache
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.sourcelink.json
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBase.A549858C.Up2Date
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\refint\DataBaseManager.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\ref\DataBaseManager.dll
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\DataBaseManager.deps.json
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\DataBaseManager.dll
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\DataBaseManager.pdb
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\Exceptions.dll
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\Items.dll
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\Exceptions.pdb
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\DataBaseDll\DataBaseManager\DataBaseManager\bin\Debug\net8.0\Items.pdb
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.csproj.AssemblyReference.cache
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.AssemblyInfoInputs.cache
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.AssemblyInfo.cs
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.csproj.CoreCompileInputs.cache
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.sourcelink.json
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBase.A549858C.Up2Date
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.dll
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\refint\DataBaseManager.dll
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\DataBaseManager.pdb
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\DataBaseDll\DataBaseManager\DataBaseManager\obj\Debug\net8.0\ref\DataBaseManager.dll

@@ -1,0 +1,139 @@
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\AutoPartsManagementDLL.deps.json
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\AutoPartsManagementDLL.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\AutoPartsManagementDLL.pdb
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\DataBaseManager.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\Exceptions.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\Items.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\DataBaseManager.pdb
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\Exceptions.pdb
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\Items.pdb
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.csproj.AssemblyReference.cache
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.AssemblyInfoInputs.cache
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.AssemblyInfo.cs
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.csproj.CoreCompileInputs.cache
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPart.C3DBED0E.Up2Date
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\refint\AutoPartsManagementDLL.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.pdb
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\ref\AutoPartsManagementDLL.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\AutoPartsManagementDLL.deps.json
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\AutoPartsManagementDLL.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\AutoPartsManagementDLL.pdb
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\DataBaseManager.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\Exceptions.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\Items.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\DataBaseManager.pdb
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\Exceptions.pdb
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\Items.pdb
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.csproj.AssemblyReference.cache
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.AssemblyInfoInputs.cache
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.AssemblyInfo.cs
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.csproj.CoreCompileInputs.cache
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.sourcelink.json
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPart.C3DBED0E.Up2Date
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\refint\AutoPartsManagementDLL.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.pdb
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\ref\AutoPartsManagementDLL.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\AutoPartsManagementDLL.deps.json
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\AutoPartsManagementDLL.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\AutoPartsManagementDLL.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\DataBaseManager.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\Exceptions.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\Items.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\DataBaseManager.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\Exceptions.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\Items.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.csproj.AssemblyReference.cache
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.AssemblyInfoInputs.cache
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.AssemblyInfo.cs
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.csproj.CoreCompileInputs.cache
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.sourcelink.json
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPart.C3DBED0E.Up2Date
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\refint\AutoPartsManagementDLL.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\ref\AutoPartsManagementDLL.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\AutoPartsManagementDLL.deps.json
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\AutoPartsManagementDLL.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\AutoPartsManagementDLL.pdb
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\DataBaseManager.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\Exceptions.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\Items.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\DataBaseManager.pdb
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\Exceptions.pdb
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\Items.pdb
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.csproj.AssemblyReference.cache
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.GeneratedMSBuildEditorConfig.editorconfig
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.AssemblyInfoInputs.cache
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.AssemblyInfo.cs
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.csproj.CoreCompileInputs.cache
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.sourcelink.json
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPart.C3DBED0E.Up2Date
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\refint\AutoPartsManagementDLL.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.pdb
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\ref\AutoPartsManagementDLL.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\AutoPartsManagementDLL.deps.json
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\AutoPartsManagementDLL.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\AutoPartsManagementDLL.pdb
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\DataBaseManager.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\Exceptions.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\Items.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\DataBaseManager.pdb
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\Exceptions.pdb
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\Items.pdb
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.csproj.AssemblyReference.cache
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.AssemblyInfoInputs.cache
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.AssemblyInfo.cs
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.csproj.CoreCompileInputs.cache
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.sourcelink.json
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPart.C3DBED0E.Up2Date
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\refint\AutoPartsManagementDLL.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.pdb
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\ref\AutoPartsManagementDLL.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\AutoPartsManagementDLL.deps.json
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\AutoPartsManagementDLL.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\AutoPartsManagementDLL.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\DataBaseManager.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\Exceptions.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\Items.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\DataBaseManager.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\Exceptions.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\Items.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.csproj.AssemblyReference.cache
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.AssemblyInfoInputs.cache
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.AssemblyInfo.cs
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.csproj.CoreCompileInputs.cache
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.sourcelink.json
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPart.C3DBED0E.Up2Date
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\refint\AutoPartsManagementDLL.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\ref\AutoPartsManagementDLL.dll
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\AutoPartsManagementDLL.deps.json
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\AutoPartsManagementDLL.dll
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\AutoPartsManagementDLL.pdb
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\DataBaseManager.dll
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\Exceptions.dll
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\Items.dll
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\DataBaseManager.pdb
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\Exceptions.pdb
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\bin\Debug\net8.0\Items.pdb
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.csproj.AssemblyReference.cache
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.AssemblyInfoInputs.cache
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.AssemblyInfo.cs
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.csproj.CoreCompileInputs.cache
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.sourcelink.json
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPart.C3DBED0E.Up2Date
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.dll
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\refint\AutoPartsManagementDLL.dll
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\AutoPartsManagementDLL.pdb
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\AutoPartsManagementDLL\AutoPartsManagementDLL\AutoPartsManagementDLL\obj\Debug\net8.0\ref\AutoPartsManagementDLL.dll

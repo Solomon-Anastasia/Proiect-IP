@@ -1,0 +1,83 @@
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ItemsDll\Items\Items\bin\Debug\net8.0\Items.deps.json
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ItemsDll\Items\Items\bin\Debug\net8.0\Items.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ItemsDll\Items\Items\bin\Debug\net8.0\Items.pdb
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ItemsDll\Items\Items\obj\Debug\net8.0\Items.GeneratedMSBuildEditorConfig.editorconfig
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ItemsDll\Items\Items\obj\Debug\net8.0\Items.AssemblyInfoInputs.cache
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ItemsDll\Items\Items\obj\Debug\net8.0\Items.AssemblyInfo.cs
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ItemsDll\Items\Items\obj\Debug\net8.0\Items.csproj.CoreCompileInputs.cache
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ItemsDll\Items\Items\obj\Debug\net8.0\Items.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ItemsDll\Items\Items\obj\Debug\net8.0\refint\Items.dll
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ItemsDll\Items\Items\obj\Debug\net8.0\Items.pdb
+D:\an3\SEM2\IP\PROIECT\IpProject\IpProject-Refactor\ItemsDll\Items\Items\obj\Debug\net8.0\ref\Items.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\bin\Debug\net8.0\Items.deps.json
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\bin\Debug\net8.0\Items.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\bin\Debug\net8.0\Items.pdb
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\obj\Debug\net8.0\Items.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\obj\Debug\net8.0\Items.AssemblyInfoInputs.cache
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\obj\Debug\net8.0\Items.AssemblyInfo.cs
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\obj\Debug\net8.0\Items.csproj.CoreCompileInputs.cache
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\obj\Debug\net8.0\Items.sourcelink.json
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\obj\Debug\net8.0\Items.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\obj\Debug\net8.0\refint\Items.dll
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\obj\Debug\net8.0\Items.pdb
+D:\Facultate - an 3 - sem 2\IP\proiect\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\obj\Debug\net8.0\ref\Items.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\bin\Debug\net8.0\Items.deps.json
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\bin\Debug\net8.0\Items.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\bin\Debug\net8.0\Items.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\obj\Debug\net8.0\Items.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\obj\Debug\net8.0\Items.AssemblyInfoInputs.cache
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\obj\Debug\net8.0\Items.AssemblyInfo.cs
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\obj\Debug\net8.0\Items.csproj.CoreCompileInputs.cache
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\obj\Debug\net8.0\Items.sourcelink.json
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\obj\Debug\net8.0\Items.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\obj\Debug\net8.0\refint\Items.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\obj\Debug\net8.0\Items.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\obj\Debug\net8.0\ref\Items.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\bin\Debug\net8.0\Items.deps.json
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\bin\Debug\net8.0\Items.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\bin\Debug\net8.0\Items.pdb
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\obj\Debug\net8.0\Items.GeneratedMSBuildEditorConfig.editorconfig
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\obj\Debug\net8.0\Items.AssemblyInfoInputs.cache
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\obj\Debug\net8.0\Items.AssemblyInfo.cs
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\obj\Debug\net8.0\Items.csproj.CoreCompileInputs.cache
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\obj\Debug\net8.0\Items.sourcelink.json
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\obj\Debug\net8.0\Items.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\obj\Debug\net8.0\refint\Items.dll
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\obj\Debug\net8.0\Items.pdb
+S:\Anul3\SEM2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\obj\Debug\net8.0\ref\Items.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\bin\Debug\net8.0\Items.deps.json
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\bin\Debug\net8.0\Items.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\bin\Debug\net8.0\Items.pdb
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\obj\Debug\net8.0\Items.GeneratedMSBuildEditorConfig.editorconfig
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\obj\Debug\net8.0\Items.AssemblyInfoInputs.cache
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\obj\Debug\net8.0\Items.AssemblyInfo.cs
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\obj\Debug\net8.0\Items.csproj.CoreCompileInputs.cache
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\obj\Debug\net8.0\Items.sourcelink.json
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\obj\Debug\net8.0\Items.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\obj\Debug\net8.0\refint\Items.dll
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\obj\Debug\net8.0\Items.pdb
+D:\AN3\SEM 2\IP\PROIECT\IP_PROIECT_ECHIPA_TEAM\ItemsDll\Items\Items\obj\Debug\net8.0\ref\Items.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\ItemsDll\Items\Items\bin\Debug\net8.0\Items.deps.json
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\ItemsDll\Items\Items\bin\Debug\net8.0\Items.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\ItemsDll\Items\Items\bin\Debug\net8.0\Items.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\ItemsDll\Items\Items\obj\Debug\net8.0\Items.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\ItemsDll\Items\Items\obj\Debug\net8.0\Items.AssemblyInfoInputs.cache
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\ItemsDll\Items\Items\obj\Debug\net8.0\Items.AssemblyInfo.cs
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\ItemsDll\Items\Items\obj\Debug\net8.0\Items.csproj.CoreCompileInputs.cache
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\ItemsDll\Items\Items\obj\Debug\net8.0\Items.sourcelink.json
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\ItemsDll\Items\Items\obj\Debug\net8.0\Items.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\ItemsDll\Items\Items\obj\Debug\net8.0\refint\Items.dll
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\ItemsDll\Items\Items\obj\Debug\net8.0\Items.pdb
+C:\Users\Edi\Desktop\IP_PROIECT_ECHIPA_TEAM_com+antete\ItemsDll\Items\Items\obj\Debug\net8.0\ref\Items.dll
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\ItemsDll\Items\Items\bin\Debug\net8.0\Items.deps.json
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\ItemsDll\Items\Items\bin\Debug\net8.0\Items.dll
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\ItemsDll\Items\Items\bin\Debug\net8.0\Items.pdb
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\ItemsDll\Items\Items\obj\Debug\net8.0\Items.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\ItemsDll\Items\Items\obj\Debug\net8.0\Items.AssemblyInfoInputs.cache
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\ItemsDll\Items\Items\obj\Debug\net8.0\Items.AssemblyInfo.cs
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\ItemsDll\Items\Items\obj\Debug\net8.0\Items.csproj.CoreCompileInputs.cache
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\ItemsDll\Items\Items\obj\Debug\net8.0\Items.sourcelink.json
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\ItemsDll\Items\Items\obj\Debug\net8.0\Items.dll
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\ItemsDll\Items\Items\obj\Debug\net8.0\refint\Items.dll
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\ItemsDll\Items\Items\obj\Debug\net8.0\Items.pdb
+C:\Users\Naste\Desktop\Materii\POIECT IP\IP_PROIECT_ECHIPA_3\ItemsDll\Items\Items\obj\Debug\net8.0\ref\Items.dll

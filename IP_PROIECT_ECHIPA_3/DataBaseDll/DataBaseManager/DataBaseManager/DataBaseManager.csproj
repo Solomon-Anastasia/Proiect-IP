@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SQLite.Core" Version="1.0.119" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\ExceptionsDll\Exceptions\Exceptions\Exceptions.csproj" />
+    <ProjectReference Include="..\..\..\ItemsDll\Items\Items\Items.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Exceptions">
+      <HintPath>..\..\..\ExceptionsDll\Exceptions\Exceptions\bin\Release\net8.0\Exceptions.dll</HintPath>
+    </Reference>
+    <Reference Include="Items">
+      <HintPath>..\..\..\ItemsDll\Items\Items\bin\Release\net8.0\Items.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
